@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Photo.Controllers.PhotoApplicationController",
+    "Method": "Persons",
+    "RelativePath": "api/PhotoApplication/Person",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

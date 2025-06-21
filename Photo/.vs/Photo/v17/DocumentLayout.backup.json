@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JSprojects\\Photos\\Photo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9658533F-DB9B-4D62-A3B7-D5FAB839F9C3}|Photo.csproj|d:\\jsprojects\\photos\\photo\\controllers\\photoapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9658533F-DB9B-4D62-A3B7-D5FAB839F9C3}|Photo.csproj|solutionrelative:controllers\\photoapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9658533F-DB9B-4D62-A3B7-D5FAB839F9C3}|Photo.csproj|d:\\jsprojects\\photos\\photo\\repositorylayer\\photoapplicationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9658533F-DB9B-4D62-A3B7-D5FAB839F9C3}|Photo.csproj|solutionrelative:repositorylayer\\photoapplicationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9658533F-DB9B-4D62-A3B7-D5FAB839F9C3}|Photo.csproj|d:\\jsprojects\\photos\\photo\\commonlayer\\models\\readinformationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9658533F-DB9B-4D62-A3B7-D5FAB839F9C3}|Photo.csproj|solutionrelative:commonlayer\\models\\readinformationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1935,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhotoApplicationController.cs",
+              "DocumentMoniker": "D:\\JSprojects\\Photos\\Photo\\Controllers\\PhotoApplicationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PhotoApplicationController.cs",
+              "ToolTip": "D:\\JSprojects\\Photos\\Photo\\Controllers\\PhotoApplicationController.cs",
+              "RelativeToolTip": "Controllers\\PhotoApplicationController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T06:38:55.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReadInformationResponse.cs",
+              "DocumentMoniker": "D:\\JSprojects\\Photos\\Photo\\CommonLayer\\Models\\ReadInformationResponse.cs",
+              "RelativeDocumentMoniker": "CommonLayer\\Models\\ReadInformationResponse.cs",
+              "ToolTip": "D:\\JSprojects\\Photos\\Photo\\CommonLayer\\Models\\ReadInformationResponse.cs",
+              "RelativeToolTip": "CommonLayer\\Models\\ReadInformationResponse.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T06:28:19.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhotoApplicationRL.cs",
+              "DocumentMoniker": "D:\\JSprojects\\Photos\\Photo\\RepositoryLayer\\PhotoApplicationRL.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\PhotoApplicationRL.cs",
+              "ToolTip": "D:\\JSprojects\\Photos\\Photo\\RepositoryLayer\\PhotoApplicationRL.cs",
+              "RelativeToolTip": "RepositoryLayer\\PhotoApplicationRL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:04:36.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
